@@ -4,7 +4,7 @@ This project is a submission for the front-end developer position at **Appsrow**
 
 ## 🔗 Live Demo
 View the deployed landing page here:  
-👉 [https://demo-task-287d40.netlify.app/](https://demo-task-287d40.netlify.app/)
+👉 [https://demo-task-appsrow.netlify.app/](https://demo-task-appsrow.netlify.app/)
 
 ## 📐 Design Reference
 Figma Design: [Click to View](https://www.figma.com/design/qxArYSg4c9aVVDihhQn7TC/Demo-Task?node-id=1594-28&t=3itmq0YwRZFpDtPV-1)
